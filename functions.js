@@ -14,7 +14,7 @@ abc();
 xyz();
 
 // Parameter and argument
-function pqr(a,b){ // a,b is parameter
+function pqr(a,b){ // a,b is parameter.
     console.log(a+b);
 
 }

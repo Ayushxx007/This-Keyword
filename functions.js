@@ -4,7 +4,7 @@ function xyz(){
 }
 // functional expression
 // right part is anonymous function
-// anonymous function are used when a function is used as value.
+// anonymous function are used when a function is used as value..
 let abc=function(){
     console.log("abc");
 }

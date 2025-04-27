@@ -76,7 +76,7 @@ const mathOperations = {
   // Higher order function
   // A function that takes other functions as arguments or returns a function is known as a higher-order function. 
   //In JavaScript, this is enabled due to the first-class nature of functions.
-  // setTimeout is a higher order function
+  // setTimeout is a higher order function.
   setTimeout(() => console.log("Executed after delay"), 1000);
   // map, filter, reduce are higher order functions
   const numbers = [1, 2, 3, 4, 5];
